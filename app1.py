@@ -12,4 +12,4 @@ def findADef():
         return "Word doesn't exist"  # return this if key don't exist
 
 
-print(findADef())
+print(findADef())  # dadadadada adada

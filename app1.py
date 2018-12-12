@@ -1,5 +1,5 @@
 import json  # library to work with json
-from difflib import get_close_matches
+from difflib import get_close_matches  # library for words matching ratio
 
 
 # a helper loop to print out the word Definition
